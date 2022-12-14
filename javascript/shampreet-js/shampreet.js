@@ -33,31 +33,31 @@ function search(){
 
     if(p.value == 'toronto' || p.value == 'Toronto'){
 
-        window.location.href='../../html/Fahad/Home.html';
+        window.location.href='./html/Fahad/Home.html';
         
     }
     else if (p.value == 'montreal' || p.value == 'Montreal' ){
 
-        window.location.href='../../html/Deepanker/montreal.html';
+        window.location.href='./html/Deepanker/montreal.html';
     }
 
     else if (p.value == 'vancouver' || p.value == 'Vancouver'){
 
-        window.location.href = '../../html/Sukhman/vancouver.html';
+        window.location.href = './html/Sukhman/vancouver.html';
     }
     else if(p2.value == 'toronto' || p2.value == 'Toronto'){
 
-        window.location.href='../../html/Fahad/Home.html';
+        window.location.href='./html/Fahad/Home.html';
         
     }
     else if (p2.value == 'montreal' || p2.value == 'Montreal' ){
 
-        window.location.href='../../html/Deepanker/montreal.html';
+        window.location.href='./html/Deepanker/montreal.html';
     }
 
     else if (p2.value == 'vancouver' || p2.value == 'Vancouver'){
 
-        window.location.href = '../../html/Sukhman/vancouver.html';
+        window.location.href = './html/Sukhman/vancouver.html';
     }
 
 };

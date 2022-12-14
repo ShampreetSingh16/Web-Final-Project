@@ -1,6 +1,6 @@
 /* giving background to main content */
 #head {
-    background-image: url(../../media/Shampreet/images/bg.jpg);
+    background-image: url(/media/Shampreet/images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -273,7 +273,7 @@ footer li a:hover {
 
     /* main content*/
     main {
-        background-image: url(../../media/Shampreet/images/bg.jpg);
+        background-image: url(/media/Shampreet/images/bg.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
